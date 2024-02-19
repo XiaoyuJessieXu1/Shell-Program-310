@@ -1,2 +1,0 @@
-run P_program8
-quit

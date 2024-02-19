@@ -1,2 +1,0 @@
-exec P_program13 P_program14 P_program15 RR
-quit
